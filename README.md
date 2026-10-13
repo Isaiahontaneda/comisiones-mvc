@@ -95,7 +95,7 @@ El script carga cuatro vendedores y ocho ventas de octubre de 2026. Para comprob
 ## Enlaces del proyecti
 
 - Aplicación desplegada: [https://spectacular-starlight-f5b816.netlify.app/]
-- Video explicativo: [PEGA-AQUÍ-EL-ENLACE-DEL-VIDEO]
+- Video explicativo: [https://youtu.be/XLKOVsk2dkI]
 - GitHub: [https://github.com/Isaiahontaneda/comisiones-mvc.git]
 
 ## Autor
