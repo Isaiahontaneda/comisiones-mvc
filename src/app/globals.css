@@ -1,44 +1,21 @@
 body {
+  margin-left: 60px;
+  margin-top: 40px;
   font-family: Arial, sans-serif;
-  background: #ffffff;
-  color: #222222;
-  margin: 0;
-}
-
-main {
-  max-width: 700px;
-  margin: 40px auto;
-  padding: 0 20px;
-}
-
-form {
-  margin: 20px 0;
-}
-
-input,
-button {
-  padding: 6px 10px;
-  font-size: 16px;
 }
 
 table {
-  width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
 }
 
 th,
 td {
-  border: 1px solid #cccccc;
-  padding: 8px;
+  border: 1px solid black;
+  padding: 6px 14px;
   text-align: left;
 }
 
-th {
-  background: #f0f0f0;
-}
-
 .error {
-  color: #b00020;
-  font-weight: bold;
+  color: red;
 }
