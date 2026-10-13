@@ -92,20 +92,12 @@ El script carga cuatro vendedores y ocho ventas de octubre de 2026. Para comprob
 | Carla Ruiz | 2 | $450 | $0 |
 | Pedro Salas | 2 | $1700 | $122 |
 
-## Demostración
-
-Resultado del cálculo para todo octubre de 2026:
-
-![Resultado](capturas/resultado.png)
-
-Mensaje cuando las fechas están al revés:
-
-![Error](capturas/error.png)
+## Enlaces del proyecti
 
 - Aplicación desplegada: [PEGA-AQUÍ-LA-URL-DE-NETLIFY]
 - Video explicativo: [PEGA-AQUÍ-EL-ENLACE-DEL-VIDEO]
+- GitHub: https://github.com/Isaiahontaneda/comisiones-mvc.git
 
 ## Autor
 
 Isaiah Ontaneda - Ingeniería de Software, Universidad de las Américas  
-GitHub: https://github.com/Isaiahontaneda/comisiones-mvc.git
